@@ -1,19 +1,17 @@
-# DBMS-Lab
-
-This repository contains the lab assignments for the course DBMS.
- [Checkout Dharsan19 repo if you face any error in this codes](https://github.com/dharsan19/DBMS_LAB)
-
-# Insta client URL
-
-```
- RA2011003010737/RA2011003010737@a1-a2-b1.c0vm8jxyhl5s.us-east-2.rds.amazonaws.com:1521/orcl
-```
-
-## Table of Contents
-
 | S.No. | Assignment | Link |
 | :---: | :---: | :---: |
-| 1 | Ex-1 | [Link](./Ex-1.md) |
-| 2 | Ex-2 | [Link](./Ex-2.md) |
-| 3 | Ex-4 | [Link](./Ex-4.md) |
-| 4 | Ex-5 | [Link](./Ex-5.md) |
+| 1 | creating database table | [Link](./Ex-1.md) |
+| 2 | data manipulation commands | [Link](./Ex-2.md) |
+| 3 | basic select statements | [Link](./Ex-3.md) |
+| 4 | Integrity constraints | [Link](./Ex-4.md) |
+| 5 | Data control & transaction control | [Link](./Ex-5.md) |
+| 6 | sql functions | [Link](./Ex-6.md) |
+| 7 | Joining tables | [Link](./Ex-7.md) |
+| 8 | Sub Queries | [Link](./Ex-8.md) |
+| 9 | Views | [Link](./Ex-9.md) |
+| 10 | plsql conditional& iterative | [Link](./Ex-10.md) |
+| 11 | plsql procedures | [Link](./Ex-11.md) |
+| 12 | plsql functioins | [Link](./Ex-12.md) |
+| 13 | plsql cursor | [Link](./Ex-13.md) |
+| 14 | Built in exception | [Link](./Ex-14.md) |
+| 15 | plsql triggers | [Link](./Ex-15.md) |
